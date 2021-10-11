@@ -1,8 +1,16 @@
-#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+#
+# This file is part of Flask-Collect-Invenio.
+# Copyright (C) 2012 - 2016 Kirill Klenov.
+# Copyright (C) 2021        TU Wien.
+#
+# Flask-Collect-Invenio is free software; you can redistribute it and/or modify
+# it under the terms of the Revised BSD License; see LICENSE file for
+# more details.
 
 """
-Flask-Collect
--------------
+Flask-Collect-Invenio
+---------------------
 
 Setup module.
 
@@ -56,7 +64,7 @@ for reqs in extras_require.values():
 
 
 META_DATA = dict(
-    name='Flask-Collect',
+    name='Flask-Collect-Invenio',
     version=version,
     license="BSD",
     description=_read('DESCRIPTION'),
