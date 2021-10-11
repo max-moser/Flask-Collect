@@ -73,7 +73,7 @@ META_DATA = dict(
     keywords="flask static deploy".split(),
     author='Kirill Klenov',
     author_email='horneds@gmail.com',
-    url=' http://github.com/klen/Flask-Collect',
+    url=' http://github.com/inveniosoftware/Flask-Collect-Invenio',
     classifiers=[
         'Development Status :: 4 - Beta',
         'Intended Audience :: Developers',
